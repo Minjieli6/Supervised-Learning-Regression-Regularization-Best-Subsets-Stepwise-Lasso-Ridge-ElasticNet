@@ -7,10 +7,10 @@
 # Data
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-# Steps
-1. cross-validation
+# Step
+1. Cross-validation
 2. EDA
-3. Transform and feature engineer as appropriate
+3. Transform and feature engineer
 4. Build regression models, stepwise, Lasso, Ridge, ElasticNet
 5. Conduct hyperparameter tuning for the ElasticNet.
 6. Evaluate model performance
